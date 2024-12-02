@@ -15,21 +15,22 @@
   <div class="logo">
     <img src="images/LOGO3.png" alt="GoMart Logo" />
   </div>
-    <ul class="nav-links">
-      <li><a href="index.php">Home</a></li>
-      <li><a href="shop.php">Shop</a></li>
-      <li><a href="#receipt">Receipt</a></li>
-    </ul>
-    <div class="hamburger">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-    <div class="shopping">
-      <img src="images/shopping-bag.png" alt="shopping-bag">
-      <span class="quantity">0</span>
-    </div>
-  </nav>
+  <ul class="nav-links">
+    <li><a href="index.php">Home</a></li>
+    <li><a href="shop.php">Shop</a></li>
+    <li><a href="#receipt">Receipt</a></li>
+  </ul>
+  <div class="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <div class="shopping">
+    <img src="images/shopping-bag.png" alt="shopping-bag">
+    <span class="quantity">0</span>
+  </div>
+   <a href="logout.php" class="logout-btn">Logout</a>
+</nav>
 
   <div class="landingpage">
     <h1 class="gomart">GoMart</h1>
